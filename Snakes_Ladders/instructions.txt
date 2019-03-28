@@ -1,0 +1,3 @@
+Welcome to the Snakes and Ladders Game.
+
+The rules are simple. 
